@@ -1,0 +1,53 @@
+0 Sorry, I'm a little late for the celebration.
+1 It looks like the enemies got ahead of us.
+0 Let's clip their wings a little.
+0 Trust me!
+1 Are we sure we should go there?
+0 Yes...
+1 Good luck for us!
+
+- Deep Space -
+
+0 Giant Evil planet... I read a book about something like that.
+0 Cool, right?
+1 Alarm! We’re under massive attack!
+0 Looks like we celebrated way too early.
+1 Enough jokes! We've been searching for agent.
+0 Come on!
+
+- Evil Planet -
+
+2 Please follow my coordinates. I will provide you support in this mission.
+0 And who the hell are you? Agent?
+2 I am a friend. The man of intelligence.
+1 So what is our current objective, friend of intelligence?
+2 We have long noticed that our enemy is constructing battle commutator.
+2 It should be somewhere in this area.
+0 Not for long.
+
+- Commutator -
+
+0 Commutator is destroyed.
+1 Great job!
+0 So what are our chances to not die alone on this Evil Planet?
+1 Looks like we celebrated way too early. Again.
+2 Can you find the spaceport?
+0 But why?
+2 Space are closed. This may be our only chance.
+0 Let's investigate it.
+
+- Spaceport -
+
+1 Come in! Do you copy? We have seized the Spaceport!
+0 Shine! Let’s get out of here!
+2 Not so fast, kitty! You need to fight a way to your army!
+1 When was it different?
+0 Do it! We hurry to the rescue!
+
+- Last Battle -
+
+0 Ah, homeland. As always, beautiful at this time of year.
+1 Is battle finally over?
+0 Yes. For now.
+1 But the war is not over yet?
+0 Exactly! See you in a next battles!

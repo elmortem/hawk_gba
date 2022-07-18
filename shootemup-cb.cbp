@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="shootemup" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<MakeCommands>
+			<Build command="build.bat" />
+			<CompileFile command="" />
+			<Clean command="clean.bat" />
+			<DistClean command="$make -f $makefile distclean$target" />
+			<AskRebuildNeeded command="" />
+			<SilentBuild command="build.bat &gt; $(CMD_NULL)" />
+		</MakeCommands>
+		<Build>
+			<Target title="Release">
+				<Option output="emul.bat" prefix_auto="0" extension_auto="0" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<MakeCommands>
+					<Build command="build.bat" />
+					<CompileFile command="" />
+					<Clean command="clean.bat" />
+					<DistClean command="$make -f $makefile distclean$target" />
+					<AskRebuildNeeded command="" />
+					<SilentBuild command="build.bat &gt; $(CMD_NULL)" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="src/actor.cpp" />
+		<Unit filename="src/actor.h" />
+		<Unit filename="src/actor_bomb.cpp" />
+		<Unit filename="src/actor_bomb.h" />
+		<Unit filename="src/actor_bug.cpp" />
+		<Unit filename="src/actor_bug.h" />
+		<Unit filename="src/actor_bullet.cpp" />
+		<Unit filename="src/actor_bullet.h" />
+		<Unit filename="src/actor_cow.cpp" />
+		<Unit filename="src/actor_cow.h" />
+		<Unit filename="src/actor_enemy.cpp" />
+		<Unit filename="src/actor_enemy.h" />
+		<Unit filename="src/actor_expl.cpp" />
+		<Unit filename="src/actor_expl.h" />
+		<Unit filename="src/actor_fly.cpp" />
+		<Unit filename="src/actor_fly.h" />
+		<Unit filename="src/actor_hor.cpp" />
+		<Unit filename="src/actor_hor.h" />
+		<Unit filename="src/actor_min.cpp" />
+		<Unit filename="src/actor_min.h" />
+		<Unit filename="src/actor_player.cpp" />
+		<Unit filename="src/actor_player.h" />
+		<Unit filename="src/actor_resource.cpp" />
+		<Unit filename="src/actor_resource.h" />
+		<Unit filename="src/actor_rocket.cpp" />
+		<Unit filename="src/actor_rocket.h" />
+		<Unit filename="src/actor_saw.cpp" />
+		<Unit filename="src/actor_saw.h" />
+		<Unit filename="src/actor_ship.cpp" />
+		<Unit filename="src/actor_ship.h" />
+		<Unit filename="src/actor_sin.cpp" />
+		<Unit filename="src/actor_sin.h" />
+		<Unit filename="src/actor_spawner.cpp" />
+		<Unit filename="src/actor_spawner.h" />
+		<Unit filename="src/audio.cpp" />
+		<Unit filename="src/audio.h" />
+		<Unit filename="src/fixed.cpp" />
+		<Unit filename="src/fixed.h" />
+		<Unit filename="src/gamedata.cpp" />
+		<Unit filename="src/gamedata.h" />
+		<Unit filename="src/gba_defs.h" />
+		<Unit filename="src/mission.cpp" />
+		<Unit filename="src/mission.h" />
+		<Unit filename="src/res_graphics.cpp" />
+		<Unit filename="src/res_graphics.h" />
+		<Unit filename="src/res_sounds.cpp" />
+		<Unit filename="src/res_sounds.h" />
+		<Unit filename="src/shootemup.cpp" />
+		<Unit filename="src/state.cpp" />
+		<Unit filename="src/state.h" />
+		<Unit filename="src/state_dialog.cpp" />
+		<Unit filename="src/state_dialog.h" />
+		<Unit filename="src/state_end.cpp" />
+		<Unit filename="src/state_end.h" />
+		<Unit filename="src/state_gameplay.cpp" />
+		<Unit filename="src/state_gameplay.h" />
+		<Unit filename="src/state_mainmenu.cpp" />
+		<Unit filename="src/state_mainmenu.h" />
+		<Unit filename="src/state_meta.cpp" />
+		<Unit filename="src/state_meta.h" />
+		<Unit filename="src/tileset.h" />
+		<Unit filename="src/utils.cpp" />
+		<Unit filename="src/utils.h" />
+		<Unit filename="src/video.cpp" />
+		<Unit filename="src/video.h" />
+		<Unit filename="src/weapon.cpp" />
+		<Unit filename="src/weapon.h" />
+		<Extensions>
+			<code_completion>
+				<search_path add="..\..\devkitPro\devkitARM\arm-none-eabi\include" />
+				<search_path add="..\..\devkitPro\devkitARM\arm-none-eabi\include\c++\6.3.0" />
+			</code_completion>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
